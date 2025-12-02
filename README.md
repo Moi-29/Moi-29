@@ -6,8 +6,6 @@ Right now I'm sharpening my JavaScript and React skills and stepping into backen
 
 ---
 
-**Moi-29/Moi-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
-
 ## 🚀 About Me
 - 🔭 I’m currently working on: Frontend projects and real-world UI ideas.
 - 🌱 I’m currently learning: Advanced JavaScript, React.js, and Node.js.
