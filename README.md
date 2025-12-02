@@ -30,11 +30,11 @@ Right now I'm sharpening my JavaScript and React skills and stepping into backen
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Languages
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Moi-29&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moi-29&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://gh-readme-stats.vercel.app/api?username=Moi-29&show_icons=true&theme=radical" />
+  <img width="48%" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Moi-29&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -42,7 +42,7 @@ Right now I'm sharpening my JavaScript and React skills and stepping into backen
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Moi-29&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moi-29&theme=radical" />
 </p>
 
 ---
