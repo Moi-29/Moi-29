@@ -1,4 +1,4 @@
-# Hi, I'm M🦁  
+# Hi, I'm Moi-29  
 Frontend Developer | HTML • CSS • JavaScript • React.js
 
 I love turning ideas into clean, responsive, and functional web experiences.  
