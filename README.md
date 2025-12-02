@@ -61,7 +61,7 @@ Right now I'm sharpening my JavaScript and React skills and stepping into backen
 
 Here are a few projects that show what I’m working on (you can replace these later):
 
-- 🚀 **Job-Intern Website** — Clean personal portfolio built with React  
+- 🚀 **Job-Intern Website** — User friendly job and internship website 
 - 🛒 **Mini E-Commerce UI** — Product listing, filtering and modern UI  
 
 ---
