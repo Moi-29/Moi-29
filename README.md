@@ -42,8 +42,9 @@ Right now I'm sharpening my JavaScript and React skills and stepping into backen
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moi-29&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moi-29&theme=dark&hide_border=true" />
 </p>
+
 
 ---
 
