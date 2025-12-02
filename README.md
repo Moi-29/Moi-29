@@ -2,7 +2,7 @@
 Frontend Developer | HTML • CSS • JavaScript • React.js
 
 I love turning ideas into clean, responsive, and functional web experiences.  
-Right now I'm sharpening my JavaScript and React skills and stepping into backend development with Node.js to become a full-stack developer.
+Frontend Developer | HTML • CSS • JavaScript • React.js, Building clean, responsive web apps
 
 ---
 
@@ -10,10 +10,8 @@ Right now I'm sharpening my JavaScript and React skills and stepping into backen
 - 🔭 I’m currently working on: Frontend projects and real-world UI ideas.
 - 🌱 I’m currently learning: Advanced JavaScript, React.js, and Node.js.
 - 👯 I’m looking to collaborate on: Frontend apps, React components, and open-source UI tools.
-- 🤔 I’m looking for help with: React architecture and clean backend logic with Node.js.
 - 💬 Ask me about: HTML, CSS, JavaScript, React.js, UI layout, and responsive design.
 - 📫 How to reach me: moibonberhau6@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Debugging feels like solving a fun little puzzle.
 
 ---
