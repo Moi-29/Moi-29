@@ -57,7 +57,7 @@ Frontend Developer | HTML • CSS • JavaScript • React.js, Building clean, r
 
 ## 📁 Featured Projects
 
-Here are a few projects that show what I’m working on (you can replace these later):
+Here are a few projects that show what I’m working on:
 
 - 🚀 **Job-Intern Website** — User friendly job and internship website 
 - 🛒 **Mini E-Commerce UI** — Product listing, filtering and modern UI  
