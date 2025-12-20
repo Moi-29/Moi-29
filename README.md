@@ -3,7 +3,7 @@
 <!-- ────────────────────────────────────────────────────────── -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFC6,100:7E00FF&height=200&section=header&text=⚡%20Moibon%20Berhau%20⚡&fontSize=48&animation=twinkling&fontColor=FFFFFF&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFC6,100:7E00FF&height=200&section=header&text=⚡%20Moibon%20Berhanu%20⚡&fontSize=48&animation=twinkling&fontColor=FFFFFF&fontAlignY=35" />
 </p>
 
 <p align="center">
