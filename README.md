@@ -2,13 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFC6,100:7E00FF&height=220&section=header&text=⚡%20Moibon%20Berhau%20⚡&fontSize=50&animation=fadeIn&fontColor=FFFFFF&fontAlignY=38" />
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Moi-29/Moi-29/main/profile.png" width="150" style="border-radius: 50%; border: 4px solid #00FFC6; box-shadow: 0 0 20px #7E00FF;" />
-  
-  <br><br>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFC6&center=true&vCenter=true&width=650&lines=Frontend+Developer;Creative+UI+Engineer;HTML+•+CSS+•+JS+•+React.js;Turning+ideas+into+modern+UI+experiences" />
-</div>
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="center">
+      <img src="https://raw.githubusercontent.com/Moi-29/Moi-29/main/image_0c4a44.jpg" width="160" style="border-radius: 50%; border: 4px solid #00FFC6; box-shadow: 0 0 20px #7E00FF;" />
+    </td>
+    <td align="left" valign="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFC6&center=false&vCenter=true&width=450&lines=Frontend+Developer;Creative+UI+Engineer;HTML+•+CSS+•+JS+•+React.js;Turning+ideas+into+modern+UI" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
@@ -46,7 +49,7 @@
 
 <div align="center">
   <h2>📈 Coding Activity & Performance</h2>
-  <p><i>(Fixed: Using Activity Graph instead of WakaTime to avoid errors)</i></p>
+  <p><i>(Fixed: Using Activity Graph for high-performance visual)</i></p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moi-29&theme=tokyo-night&bg_color=0D1117&color=00FFC6&line=7E00FF&point=FFFFFF&hide_border=true" width="95%"/>
 </div>
 
