@@ -1,138 +1,315 @@
 <!-- ────────────────────────────────────────────────────────── -->
-<!-- 🔥 STUNNING ANIMATED BANNER -->
+<!-- 🌌 CYBERPUNK NEON HEADER -->
 <!-- ────────────────────────────────────────────────────────── -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=👋%20Hi%2C%20I'm%20Moibon!&fontSize=45&fontAlignY=38&animation=twinkling&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFC6,100:7E00FF&height=200&section=header&text=⚡%20Moibon%20Berhau%20⚡&fontSize=48&animation=twinkling&fontColor=FFFFFF&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=650&lines=Frontend+Developer;HTML+•+CSS+•+JavaScript+•+React.js;I+build+clean+responsive+web+interfaces;Turning+ideas+into+modern+UI+experiences" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFC6&width=650&lines=Frontend+Developer;HTML+•+CSS+•+JavaScript+•+React.js;Building+clean+responsive+interfaces;Turning+ideas+into+modern+UI+experiences" />
 </p>
 
+
+
 <!-- ────────────────────────────────────────────────────────── -->
-<!-- ORIGINAL CONTENT STARTS HERE — NOT REMOVED -->
+<!-- 🔥 HIGH-END INTRO SECTION -->
 <!-- ────────────────────────────────────────────────────────── -->
 
-# Hi, I'm Moibon 
-Frontend Developer | HTML • CSS • JavaScript • React.js
+<div align="center">
 
+# Hi, I'm <span style="color:#00FFC6">Moibon</span> 👋  
+🌐 Frontend Developer  
+
+</div>
+
+<p align="center">
 I love turning ideas into clean, responsive, and functional web experiences.  
-Frontend Developer | HTML • CSS • JavaScript • React.js, Building clean, responsive web apps
-
----
-
-## 🚀 About Me
-- 🔭 I’m currently working on: Frontend projects and real-world UI ideas.
-- 🌱 I’m currently learning: Advanced JavaScript, React.js, and Node.js.
-- 👯 I’m looking to collaborate on: Frontend apps, React components, and open-source UI tools.
-- 💬 Ask me about: HTML, CSS, JavaScript, React.js, UI layout, and responsive design.
-- 📫 How to reach me: moibonberhau6@gmail.com
-- ⚡️ Fun fact: Debugging feels like solving a fun little puzzle.
-
----
-
-## 🛠 Tech Stack  
-
-<div align="center">  
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark" />  
-</div>  
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" />
+Frontend Developer | HTML • CSS • JavaScript • React.js — Building modern web apps.
 </p>
 
 ---
 
-## 📊 GitHub Stats & Languages  
 
-<p align="center">
-  <img width="48%" src="https://gh-readme-stats.vercel.app/api?username=Moi-29&show_icons=true&theme=radical" />
-  <img width="48%" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Moi-29&layout=compact&theme=radical" />
-</p>
 
----
+<!-- ────────────────────────────────────────────────────────── -->
+<!-- 🚀 ABOUT ME -->
+<!-- ────────────────────────────────────────────────────────── -->
 
-## 🔥 Contribution Streak  
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Moi-29&theme=dark&hide_border=true" />
-</p>
-
----
-
-## 📈 Activity Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moi-29&theme=tokyo-night" />
-</p>
+## 🚀 About Me  
+- 🔭 Currently building: Frontend projects + real UI systems.  
+- 🌱 Learning: Advanced JavaScript, React.js, and Node.js.  
+- 👯 Open to collaborate: React apps & UI tools.  
+- 💬 Ask me about: HTML, CSS, JavaScript, React, UI layout.  
+- 📫 Contact: **moibonberhau6@gmail.com**  
+- ⚡ Fun fact: Debugging = solving puzzles.  
+  
 
 ---
 
-## 📁 Featured Projects  
 
-Here are a few projects that show what I’m working on:
 
-- 🚀 Job-Intern Website — User friendly job and internship website 
-- 🛒 Mini E-Commerce UI — Product listing, filtering and modern UI  
+<!-- ────────────────────────────────────────────────────────── -->
+<!-- 🎯 GOALS -->
+<!-- ────────────────────────────────────────────────────────── -->
 
----
-
-## 🎯 Goals
-- Become confident with full-stack development  
-- Build complete real-world apps from scratch  
+## 🎯 Goals  
+- Become full-stack confident  
+- Build real-world full applications  
 - Contribute to open-source  
-- Create reusable UI components for others to use  
+- Create reusable UI component libraries  
 
 ---
 
-Thanks for stopping by! ✨  
-Feel free to explore my repositories or reach out anytime.  
+<br>
+
+
 
 
 <!-- ────────────────────────────────────────────────────────── -->
-<!-- EXTENDED VISUAL ADDITIONS -->
+<!-- 🧠 TECH DASHBOARD -->
 <!-- ────────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+# 🧠 Tech Stack Dashboard  
+
+<table>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td align="center"><b>Currently Learning</b></td>
+<td align="center"><b>Tools & Platforms</b></td>
+</tr>
+
+<tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=light" />
+</td>
+
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,ts&theme=light" />
+</td>
+
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=light" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<br>
+
+
+
+
+<!-- ────────────────────────────────────────────────────────── -->
+<!-- 📊 INTERACTIVE GITHUB DASHBOARD -->
+<!-- ────────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+# 📊 GitHub Performance Dashboard  
+
+<table>
+<tr>
+<td valign="top">
+<img src="https://gh-readme-stats.vercel.app/api?username=Moi-29&show_icons=true&theme=radical&icon_color=00FFC6&title_color=00FFC6&border_color=7E00FF" width="420"/>
+</td>
+
+<td valign="top">
+<img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Moi-29&layout=compact&theme=radical&title_color=00FFC6&border_color=7E00FF" width="350"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<br>
+
+
+
+
+<!-- ────────────────────────────────────────────────────────── -->
+<!-- 🔥 STREAK + CONTRIBUTION GRAPH -->
+<!-- ────────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Moi-29&theme=tokyonight&ring=00FFC6&fire=7E00FF&currStreakLabel=00FFC6&hide_border=true" width="550"/>
 
 <br><br>
 
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="mailto:moibonberhau6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/Moi-29">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moi-29&theme=react-dark&bg_color=0D1117&color=00FFC6&line=7E00FF&point=FFFFFF&hide_border=true" width="98%"/>
+
+</div>
+
+---
 
 <br>
 
-## 🌀 Coding Activity Animation  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trepichio/trepichio/output/github-contribution-grid-snake-dark.svg" />
-</p>
+
+
+
+<!-- ────────────────────────────────────────────────────────── -->
+<!-- 📈 DAILY METRICS -->
+<!-- ────────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+# 📈 Daily Coding Metrics  
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Moi-29&theme=radical&title_color=00FFC6&border_color=7E00FF&layout=compact"/>
+
+</div>
+
+---
 
 <br>
 
-## 🧠 Random Dev Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+
+
+
+<!-- ────────────────────────────────────────────────────────── -->
+<!-- 🧩 FEATURED PROJECT CARDS -->
+<!-- ────────────────────────────────────────────────────────── -->
+
+# 📁 Featured Projects  
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Job-Intern Website  
+Modern job + internship platform  
+👉 *User-friendly design, responsive UI*
+
+</td>
+<td width="50%">
+
+### 🛒 Mini E-Commerce UI  
+Interactive product marketplace  
+👉 *Filtering, state management, modern UI*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 <br>
 
-## 🌀 Profile Views  
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=Moi-29&style=for-the-badge&color=blueviolet" />  
-</p>
+
+
+
+<!-- ────────────────────────────────────────────────────────── -->
+<!-- 🐍 ANIMATED SNAKE -->
+<!-- ────────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+# 🐍 My Coding Journey  
+<img src="https://raw.githubusercontent.com/trepichio/trepichio/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
 
 <br>
 
+
+
+
+<!-- ────────────────────────────────────────────────────────── -->
+<!-- 💬 RANDOM QUOTE -->
+<!-- ────────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="380" />
+
+</div>
+
+---
+
+<br>
+
+
+
+
+<!-- ────────────────────────────────────────────────────────── -->
+<!-- 🌐 CONNECT WITH ME -->
+<!-- ────────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+# 🌐 Connect With Me  
+
+<a href="mailto:moibonberhau6@gmail.com">
+<img src="https://img.shields.io/badge/Email-00FFC6?style=for-the-badge&logo=gmail&logoColor=000" />
+</a>
+
+<a href="https://github.com/Moi-29">
+<img src="https://img.shields.io/badge/GitHub-7E00FF?style=for-the-badge&logo=github&logoColor=fff" />
+</a>
+
+</div>
+
+---
+
+<br>
+
+
+
+
+<!-- ────────────────────────────────────────────────────────── -->
+<!-- ❤️ SUPPORT -->
+<!-- ────────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+# ❤️ Support My Work  
+
+<a href="https://buymeacoffee.com/">
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-7E00FF?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<br>
+
+
+
+
+<!-- ────────────────────────────────────────────────────────── -->
+<!-- 👁 PROFILE VIEWS -->
+<!-- ────────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Moi-29&style=for-the-badge&color=00FFC6" />
+
+</div>
+
+<br>
+
+
+
+
+<!-- ────────────────────────────────────────────────────────── -->
+<!-- 🌌 CYBERPUNK FOOTER -->
+<!-- ────────────────────────────────────────────────────────── -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7E00FF,100:00FFC6&height=120&section=footer" />
 </p>
+
