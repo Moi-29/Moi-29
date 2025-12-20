@@ -8,7 +8,7 @@
       <h2 align="center">About Me</h2>
       <ul align="left">
         <li>🔭 <b>Building:</b> Frontend + UI systems</li>
-        <li>🌱 <b>Learning:</b> Adv. JS & Node.js</li>
+        <li>🌱 <b>Learning: Node.js</li>
         <li>👯 <b>Collaboration:</b> Open Source UI</li>
         <li>💬 <b>Ask me:</b> React & Architecture</li>
         <li>⚡ <b>Fact:</b> Debugging is my puzzle</li>
