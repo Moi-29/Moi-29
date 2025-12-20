@@ -5,7 +5,7 @@
 <table align="center" border="0">
   <tr>
     <td align="center" valign="center">
-      <img src="https://raw.githubusercontent.com/Moi-29/Moi-29/main/image_0c4a44.jpg" width="160" style="border-radius: 50%; border: 4px solid #00FFC6; box-shadow: 0 0 20px #7E00FF;" />
+      <img src="https://raw.githubusercontent.com/Moi-29/Moi-29/main/profile.png" width="160" style="border-radius: 50%; border: 4px solid #00FFC6; box-shadow: 0 0 20px #7E00FF;" />
     </td>
     <td align="left" valign="center">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFC6&center=false&vCenter=true&width=450&lines=Frontend+Developer;Creative+UI+Engineer;HTML+•+CSS+•+JS+•+React.js;Turning+ideas+into+modern+UI" />
