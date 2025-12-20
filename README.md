@@ -32,7 +32,7 @@
 
 <div align="center">
   <h2>🧠 Tech Stack Universe</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,ts,git,github,vscode,figma&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode=7&theme=dark" />
 </div>
 
 <br>
