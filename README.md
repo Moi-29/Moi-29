@@ -20,7 +20,7 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFC6&center=true&vCenter=true&width=250&lines=Frontend+Developer;Creative+UI+Engineer" />
     </td>
     <td align="center" valign="top" width="300">
-      <h2 align="center">Tech Stack</h2>
+      <h2 align="center">GitHub Stats</h2>
       <img src="https://github-readme-stats.vercel.app/api?username=Moi-29&show_icons=true&theme=radical&icon_color=00FFC6&title_color=00FFC6&border_color=7E00FF&bg_color=0D1117" width="100%"/>
     </td>
   </tr>
