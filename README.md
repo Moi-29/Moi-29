@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFC6,100:7E00FF&height=220&section=header&text=⚡️%20Moibon%20Berhanu%20⚡️&fontSize=50&animation=fadeIn&fontColor=FFFFFF&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFC6,100:7E00FF&height=220&section=header&text=⚡%20Moibon%20Berhanu%20⚡&fontSize=50&animation=fadeIn&fontColor=FFFFFF&fontAlignY=38" />
 </p>
 
 <table align="center" border="0" style="border-collapse: collapse;">
@@ -8,10 +8,10 @@
       <h2 align="center">About Me</h2>
       <ul align="left">
         <li>🔭 <b>Building:</b> Frontend + UI systems</li>
-        <li>🌱 <b>Learning: Node.js</li>
+        <li>🌱 <b>Learning:</b> Node.js</li>
         <li>👯 <b>Collaboration:</b> Open Source UI</li>
         <li>💬 <b>Ask me:</b> React & Architecture</li>
-        <li>⚡️ <b>Fact:</b> Debugging is my puzzle</li>
+        <li>⚡ <b>Fact:</b> Debugging is my puzzle</li>
       </ul>
     </td>
     <td align="center" valign="center" width="250">
@@ -32,7 +32,7 @@
 
 <div align="center">
   <h2>🧠 Tech Stack Universe</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
 </div>
 
 <br>
@@ -60,12 +60,12 @@
 <div align="center">
 <table width="100%">
   <tr>
-    <td width="33%" align="center" style="border: 1px solid #00FFC6; border-radius: 10px;">
+    <td width="50%" align="center" style="border: 1px solid #00FFC6; border-radius: 10px;">
       <h3 style="color:#00FFC6;">Job-Intern Website</h3>
       <p>Modern job platform UI</p>
       <a href="https://github.com/Moi-29"><b>View Project →</b></a>
     </td>
-    <td width="33%" align="center" style="border: 1px solid #7E00FF; border-radius: 10px;">
+    <td width="50%" align="center" style="border: 1px solid #7E00FF; border-radius: 10px;">
       <h3 style="color:#7E00FF;">E-Commerce UI</h3>
       <p>Interactive marketplace UI</p>
       <a href="https://github.com/Moi-29"><b>View Project →</b></a>
@@ -78,7 +78,7 @@
 
 <div align="center">
   <h2>🐍 Contribution Journey</h2>
-  <img src="https://raw.githubusercontent.com/trepichio/trepichio/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Moi-29/Moi-29/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <br>
