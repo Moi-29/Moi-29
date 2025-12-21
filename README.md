@@ -14,16 +14,20 @@
         <li>⚡ <b>Fact:</b> Debugging is my puzzle</li>
       </ul>
     </td>
+    
     <td align="center" valign="center" width="300">
-      <div style="position: relative; display: inline-block;">
+      <a href="https://github.com/Moi-29">
         <img src="https://raw.githubusercontent.com/Moi-29/Moi-29/main/profile.png" width="180" style="border-radius: 50%; border: 5px solid #00FFC6; box-shadow: 0 0 30px rgba(0, 255, 198, 0.3);" />
-      </div>
+      </a>
       <br><br>
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7E00FF&center=true&vCenter=true&width=300&lines=Frontend+Developer;Creative+UI+Engineer;Open+Source+Enthusiast" />
     </td>
+
     <td align="center" valign="top" width="350" style="padding: 20px; border: 1px solid #30363d; border-radius: 15px;">
       <h2 align="center" style="color: #7E00FF;">🚀 Stats Overview</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=Moi-29&show_icons=true&theme=radical&icon_color=00FFC6&title_color=00FFC6&border_color=7E00FF&bg_color=0D1117" width="100%"/>
+      <a href="https://github.com/Moi-29">
+        <img src="https://github-readme-stats.vercel.app/api?username=Moi-29&show_icons=true&theme=radical&icon_color=00FFC6&title_color=00FFC6&border_color=7E00FF&bg_color=0D1117" width="100%"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -34,7 +38,9 @@
 
 <div align="center">
   <h2 style="color: #00FFC6;">🧠 Tech Stack Universe</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
+  </a>
 </div>
 
 <br>
@@ -46,34 +52,27 @@
 
 <br>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moi-29&layout=compact&theme=radical&title_color=00FFC6&border_color=7E00FF&bg_color=0D1117" /></td>
-      <td><img src="https://streak-stats.demolab.com/?user=Moi-29&theme=tokyonight&ring=00FFC6&fire=7E00FF&hide_border=true" /></td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
 <h2 align="center" style="color: #00FFC6;">📁 Featured Masterpieces</h2>
 <div align="center">
 <table width="100%" border="0">
   <tr>
     <td width="50%" align="center" style="padding: 10px;">
-      <div style="border: 1px solid #00FFC6; border-radius: 15px; padding: 20px; background: rgba(0, 255, 198, 0.05);">
-        <h3 style="color:#00FFC6;">Job-Intern Website</h3>
-        <p>Modern job platform UI with advanced filtering</p>
-        <a href="https://github.com/Moi-29"><b>Explore Repo →</b></a>
-      </div>
+      <a href="https://github.com/Moi-29" style="text-decoration:none;">
+        <div style="border: 1px solid #00FFC6; border-radius: 15px; padding: 20px; background: rgba(0, 255, 198, 0.05);">
+          <h3 style="color:#00FFC6;">Job-Intern Website</h3>
+          <p style="color: white;">Modern job platform UI with advanced filtering</p>
+          <b style="color: #00FFC6;">Explore Repo →</b>
+        </div>
+      </a>
     </td>
     <td width="50%" align="center" style="padding: 10px;">
-      <div style="border: 1px solid #7E00FF; border-radius: 15px; padding: 20px; background: rgba(126, 0, 255, 0.05);">
-        <h3 style="color:#7E00FF;">E-Commerce UI</h3>
-        <p>Interactive marketplace with glassmorphic design</p>
-        <a href="https://github.com/Moi-29"><b>Explore Repo →</b></a>
-      </div>
+      <a href="https://github.com/Moi-29" style="text-decoration:none;">
+        <div style="border: 1px solid #7E00FF; border-radius: 15px; padding: 20px; background: rgba(126, 0, 255, 0.05);">
+          <h3 style="color:#7E00FF;">E-Commerce UI</h3>
+          <p style="color: white;">Interactive marketplace with glassmorphic design</p>
+          <b style="color: #7E00FF;">Explore Repo →</b>
+        </div>
+      </a>
     </td>
   </tr>
 </table>
