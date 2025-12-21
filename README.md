@@ -34,7 +34,7 @@
 
 <div align="center">
   <h2 style="color: #00FFC6;">🧠 Tech Stack Universe</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
 </div>
 
 <br>
