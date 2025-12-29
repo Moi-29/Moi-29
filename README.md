@@ -3,9 +3,9 @@
 </p>
 
 <table align="center" border="0" style="border-collapse: collapse;">
+  <!-- About Me -->
   <tr>
-    <!-- About Me -->
-    <td align="center" valign="top" width="300" style="padding: 10px;">
+    <td align="center" valign="top" width="300">
       <h2 align="center">About Me</h2>
       <ul align="left">
         <li>🔭 <b>Building:</b> Frontend + UI systems</li>
@@ -15,16 +15,20 @@
         <li>⚡ <b>Fact:</b> Debugging is my puzzle</li>
       </ul>
     </td>
+  </tr>
 
-    <!-- Profile Image & Typing SVG -->
-    <td align="center" valign="top" width="250" style="padding: 10px;">
+  <!-- Profile Image & Typing SVG -->
+  <tr>
+    <td align="center" valign="center" width="250">
       <img src="https://raw.githubusercontent.com/Moi-29/Moi-29/main/profile.png" width="180" style="border-radius: 50%; border: 5px solid #00FFC6; box-shadow: 0 0 25px #7E00FF;" />
       <br>
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFC6&center=true&vCenter=true&width=250&lines=Frontend+Developer;Creative+UI+Engineer" />
     </td>
+  </tr>
 
-    <!-- GitHub Stats -->
-    <td align="center" valign="top" width="300" style="padding: 10px;">
+  <!-- GitHub Stats -->
+  <tr>
+    <td align="center" valign="top" width="300">
       <h2 align="center">GitHub Stats</h2>
       <img src="https://github-readme-stats.vercel.app/api?username=Moi-29&show_icons=true&theme=radical&icon_color=00FFC6&title_color=00FFC6&border_color=7E00FF&bg_color=0D1117" width="100%"/>
     </td>
