@@ -49,10 +49,6 @@
 
 <br><br>
 
-### 🔥 Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moi-29&layout=compact&theme=transparent&hide_border=true&title_color=00FFC6&text_color=ffffff" />
-
 </td>
 
 </tr>
@@ -61,10 +57,6 @@
 ---
 
 ## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moi-29&show_icons=true&theme=transparent&hide_border=true&title_color=00FFC6&icon_color=7E00FF&text_color=ffffff" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moi-29&bg_color=0d1117&color=00FFC6&line=7E00FF&point=ffffff&hide_border=true" width="95%"/>
