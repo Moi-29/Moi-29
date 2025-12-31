@@ -11,30 +11,24 @@
 
 ---
 
-## 🧊 Glass Dashboard
+## 🧊 MOIBON
 
 <table align="center" width="100%">
 <tr>
+
+<!-- LEFT COLUMN -->
 <td width="30%" align="center" valign="top">
 
 ### 👤 About Me
 
 - 🔭 **Building:** Frontend + UI Systems  
-- 🌱 **Learning:** Node.js & Backend  
 - 👯 **Collaboration:** Open-source UI  
 - 💬 **Ask me:** React, Architecture  
 - ⚡ **Fun fact:** Debugging is my puzzle  
 
-<br>
-
-<img src="https://raw.githubusercontent.com/Moi-29/Moi-29/main/profile.png" width="160" style="border-radius:50%" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FFC6&center=true&width=220&lines=Frontend+Developer;Creative+UI+Engineer" />
-
 </td>
 
+<!-- CENTER COLUMN -->
 <td width="40%" align="center" valign="top">
 
 ### 📊 GitHub Analytics
@@ -45,8 +39,18 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moi-29&bg_color=0d1117&color=00FFC6&line=7E00FF&point=ffffff&hide_border=true" width="100%"/>
 
+<br><br>
+
+<!-- PROFILE IMAGE MOVED HERE -->
+<img src="https://raw.githubusercontent.com/Moi-29/Moi-29/main/profile.png" width="160" style="border-radius:50%" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FFC6&center=true&width=220&lines=Frontend+Developer;Creative+UI+Engineer" />
+
 </td>
 
+<!-- RIGHT COLUMN -->
 <td width="30%" align="center" valign="top">
 
 ### 🧠 Tech Stack Universe
@@ -60,6 +64,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moi-29&layout=compact&theme=transparent&hide_border=true&title_color=00FFC6&text_color=ffffff" />
 
 </td>
+
 </tr>
 </table>
 
