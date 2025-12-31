@@ -22,9 +22,7 @@
 ### 👤 About Me
 
 - 🔭 **Building:** Frontend + UI Systems  
-- 🌱 **Learning:** Node.js & Backend  
-- 👯 **Collaboration:** Open-source UI  
-- 💬 **Ask me:** React, Architecture  
+- 👯 **Collaboration:** Open-source UI    
 - ⚡ **Fun fact:** Debugging is my puzzle  
 
 </td>
