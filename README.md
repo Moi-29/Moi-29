@@ -32,7 +32,7 @@
 <!-- CENTER COLUMN -->
 <td width="34%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/Moi-29/Moi-29/main/profile.png" width="160" style="border-radius:50%" />
+<img src="https://raw.githubusercontent.com/Moi-29/Moi-29/main/profile.jpg" width="160" style="border-radius:50%" />
 
 <br><br>
 
