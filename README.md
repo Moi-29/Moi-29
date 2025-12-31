@@ -11,17 +11,18 @@
 
 ---
 
-## 🧊 MOIBON
+## 🧊 Glass Dashboard
 
 <table align="center" width="100%">
 <tr>
 
 <!-- LEFT COLUMN -->
-<td width="30%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### 👤 About Me
 
 - 🔭 **Building:** Frontend + UI Systems  
+- 🌱 **Learning:** Node.js & Backend  
 - 👯 **Collaboration:** Open-source UI  
 - 💬 **Ask me:** React, Architecture  
 - ⚡ **Fun fact:** Debugging is my puzzle  
@@ -29,19 +30,8 @@
 </td>
 
 <!-- CENTER COLUMN -->
-<td width="40%" align="center" valign="top">
+<td width="34%" align="center" valign="top">
 
-### 📊 GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=Moi-29&show_icons=true&theme=transparent&hide_border=true&title_color=00FFC6&icon_color=7E00FF&text_color=ffffff" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moi-29&bg_color=0d1117&color=00FFC6&line=7E00FF&point=ffffff&hide_border=true" width="100%"/>
-
-<br><br>
-
-<!-- PROFILE IMAGE MOVED HERE -->
 <img src="https://raw.githubusercontent.com/Moi-29/Moi-29/main/profile.png" width="160" style="border-radius:50%" />
 
 <br><br>
@@ -51,7 +41,7 @@
 </td>
 
 <!-- RIGHT COLUMN -->
-<td width="30%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### 🧠 Tech Stack Universe
 
@@ -67,6 +57,22 @@
 
 </tr>
 </table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moi-29&show_icons=true&theme=transparent&hide_border=true&title_color=00FFC6&icon_color=7E00FF&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moi-29&bg_color=0d1117&color=00FFC6&line=7E00FF&point=ffffff&hide_border=true" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Moi-29&theme=tokyonight&ring=00FFC6&fire=7E00FF&hide_border=true" />
+</p>
 
 ---
 
