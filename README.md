@@ -60,10 +60,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moi-29&bg_color=0d1117&color=00FFC6&line=7E00FF&point=ffffff&hide_border=true" width="95%"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Moi-29&theme=tokyonight&ring=00FFC6&fire=7E00FF&hide_border=true" />
-</p>
-
 ---
 
 ## 🧩 Featured Masterpieces
