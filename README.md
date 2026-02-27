@@ -62,38 +62,6 @@
 
 ---
 
-## 🧩 Featured Masterpieces
-
-<table width="100%" align="center">
-<tr>
-
-<td width="50%" align="center">
-
-### 💼 Job-Intern Website  
-Modern job platform UI with clean UX  
-
-<a href="https://github.com/Moi-29">
-  <img src="https://img.shields.io/badge/View_Project-00FFC6?style=for-the-badge&logo=github&logoColor=000"/>
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-### 🛒 E-Commerce UI  
-Interactive marketplace UI design  
-
-<a href="https://github.com/Moi-29">
-  <img src="https://img.shields.io/badge/View_Project-7E00FF?style=for-the-badge&logo=github&logoColor=fff"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
 ## 🐍 Contribution Journey
 
 <p align="center">
