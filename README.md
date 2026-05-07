@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <b>Frontend Developer • Creative UI Engineer</b><br>
-  <i>Building beautiful, fast & scalable interfaces</i>
+  <b>Full-Stack Developer • Creative UI Engineer</b><br>
+  <i>Building beautiful, fast & scalable web applications</i>
 </p>
 
 <br>
@@ -21,8 +21,8 @@
 
 ### 👤 About Me
 
-- 🔭 **Building:** Frontend + UI Systems  
-- 👯 **Collaboration:** Open-source UI    
+- 🔭 **Building:** Full-Stack + UI Systems  
+- 👯 **Collaboration:** Open-source Projects    
 - ⚡ **Fun fact:** Debugging is my puzzle  
 
 </td>
@@ -34,7 +34,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FFC6&center=true&width=220&lines=Frontend+Developer;Creative+UI+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FFC6&center=true&width=260&lines=Full-Stack+Developer;Creative+UI+Engineer;Backend+Systems+Builder" />
 
 </td>
 
@@ -43,7 +43,7 @@
 
 ### 🧠 Tech Stack Universe
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark" />
 
 <br><br>
 
